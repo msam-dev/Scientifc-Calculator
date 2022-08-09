@@ -1,13 +1,12 @@
 ## Summary
-This is the second and updated version of my personal developer portfolio.\
-I find that websites using complex designs can be interesting, however when well executed, a clean and minimal website often offers a more enjoyable experience for the user. This is the core philosophy I had when designing and creating this website. 
+This project is a web-based calculator with notable functionality and unique design.
+I decided to include in the calculator a few usefull scientific features such trigonometric math, logarithms, pi, bracketing, square roots, and percentages giving it more functionality than many simple web based calculators.
+In addition to this, the calculator has a Night mode toggle for individuals such as myself who prefer a darker theme.
+This application is responsively designed so it retains full functionality on mobile and desktop.
 
 ## Technical Details
 For the initial idea mock-ups and design prototypes I used **Figma**.\
-For development of the website I used the **React** JavaScript framework inside of Visual Studio Code IDE.\
-For hosting the website, I used **GitHub Pages** with a custom domain name.
-
-
-
+For development of the website I used **HTML, CSS** and **JavaScript**.\
+For hosting the website, I used **GitHub Pages**.
 
 If you have any questions contact me here [msam.dev/contact](https://msam.dev/contact).
