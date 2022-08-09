@@ -3,7 +3,6 @@ var calculation = [];
 
 function Display(symbol){
     var displayContent = displayArray.join("");
-    
     if(symbol != "p"){
         document.getElementById('value').innerHTML = displayContent + symbol;
         displayArray.push(symbol); 
@@ -68,4 +67,5 @@ function calculationFormatter(){
 const checkbox = document.getElementById('checkbox');
 checkbox.addEventListener('change', ()=> {
     document.body.classList.toggle('light');
-});
+    }
+);
