@@ -30,7 +30,7 @@ button:hover{
 }
 
 body.light button{
-    background-color: white;
+    background-color: #FFFFFF;
     color: #242424;
     outline: #c4c4c4 solid 2px ;
 }
@@ -80,7 +80,7 @@ body.light .calculation{
 }
 
 .equals{
-    color: white;
+    color: #FFFFFF;
     background-color: #0089A8;
 }
 
@@ -93,7 +93,7 @@ body.light .equals:hover{
 }
 
 body.light .equals{
-    color: white;
+    color: #FFFFFF;
     background-color: #0089A8;
 }
 
@@ -137,12 +137,12 @@ body.light .altButton{
 }
 
 .fa-moon{
-    color: white;
+    color: #FFFFFF;
     font-size: 1.6rem;
 }
 
 .fa-sun{
-    color: white;
+    color: #FFFFFF;
     font-size: 1.6rem;
 }
 
@@ -151,7 +151,7 @@ body.light .altButton{
     height:31px;
     top: 2px;
     left: 2px;
-    background-color: white;
+    background-color: #FFFFFF;
     position: absolute;
     border-radius: 50%;
     transition: transform 0.1s linear ;
@@ -190,6 +190,6 @@ body.light .altButton{
 }
 
 body.light .header{
-    background-color: white;
+    background-color: #FFFFFF;
     color: black;
 }
