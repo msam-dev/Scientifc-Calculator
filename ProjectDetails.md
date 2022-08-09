@@ -9,4 +9,6 @@ For the initial idea mock-ups and design prototypes I used **Figma**.\
 For development of the website I used **HTML, CSS** and **JavaScript**.\
 For hosting the website, I used **GitHub Pages**.
 
+All calculation functionality is done using the built in JavaScript mathematics functions.
+
 If you have any questions contact me here [msam.dev/contact](https://msam.dev/contact).
